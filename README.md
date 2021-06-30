@@ -1,4 +1,19 @@
 # donkeycar: Final exam for ML
+### Get ready to use donkey
+First, you need to download this file in your computer. Then:
+```python
+cd <path to this file>/donkeycar
+git checkout master
+```
+Create the Python anaconda environment
+```python
+conda env create -f install\envs\windows.yml
+conda activate donkey
+pip install --user tensorflow
+pip install -e .[pc]
+```
+Then you need to download gym-donkeycar for simulator: 
+https://docs.donkeycar.com/guide/simulator/
 
 ### Get driving.
 After building a Donkey you can turn on your car and go to http://localhost:8887 to drive.
