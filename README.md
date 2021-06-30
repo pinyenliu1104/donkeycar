@@ -43,6 +43,6 @@ python manage.py drive --model models/<your model>
 https://drive.google.com/file/d/1Hprn8L35qctdmGpRkIB8pNrgtTbJWjMk/view?usp=sharing
 
 #### Our dataset movie
-The green line in this video represents throttle and steering
+The green line in this video represents throttle and steering\
 https://drive.google.com/file/d/11B0VQQKeMASIE-ECoQUfKE0HjSg8YcS7/view?usp=sharing
 
