@@ -16,7 +16,7 @@ Then you need to download gym-donkeycar for simulator:
 https://docs.donkeycar.com/guide/simulator/
 
 ### Get driving.
-After building a Donkey you can turn on your car and go to http://localhost:8887 to drive.
+After building a Donkey car, you can turn on your car and go to http://localhost:8887 to drive.
 
 ### How to use this function.
 Create a car
